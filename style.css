@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.box {
+  background: #ddd;
+  margin: 0;
+  padding: 10px;
+
+}
+
+.t_bord {
+  border: 10px solid #ffa500;
+  margin: 0;
+}
+
+.f_bord {
+  border: 1px solid #e75551;
+  margin: 40px 20px;
+  max-width: 350px;
+}
+
+.s_bord {
+  border: 10px solid #308dc0;
+  margin: 0;
+}
