@@ -3,25 +3,23 @@ body {
   margin: 0;
 }
 
-.box {
-  background: #ddd;
-  margin: 0;
+.f_block {
+  background-color: #2c8ec1;
+  width: 350px;
+  margin: 20px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+}
+
+.s_block {
+  background-color: #ffa600;
+}
+
+.t_block {
+  background-color: #ddd;
+}
+
+.block {
+  border: 1px solid #e65451;
   padding: 10px;
-
-}
-
-.t_bord {
-  border: 10px solid #ffa500;
-  margin: 0;
-}
-
-.f_bord {
-  border: 1px solid #e75551;
-  margin: 40px 20px;
-  max-width: 350px;
-}
-
-.s_bord {
-  border: 10px solid #308dc0;
-  margin: 0;
 }
